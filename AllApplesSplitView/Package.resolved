@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AllApples",
+        "repositoryURL": "https://github.com/mihaelamj/allapples",
+        "state": {
+          "branch": null,
+          "revision": "a6e51436da32fe14e4c8373c4c06b3e809b75286",
+          "version": "0.9.8"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
